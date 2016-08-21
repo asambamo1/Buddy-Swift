@@ -1,2 +1,2 @@
-# carpoolbuddy-swift
+# Carpool Buddy - Swift
 Carpool Buddy iOS Swift version
